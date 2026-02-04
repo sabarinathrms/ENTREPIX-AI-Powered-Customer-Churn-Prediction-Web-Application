@@ -70,7 +70,7 @@ ENTREPIX-ML-Web-Application/
 
 ### 1️⃣ Clone the Repository
 ```bash
-cd ENTREPIX-ML-Web-Application
+cd ENTREPIX – AI-Powered Customer Churn Prediction Web Application
 ```
 ### 2️⃣ Backend Setup
 ```
