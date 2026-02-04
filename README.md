@@ -140,9 +140,9 @@ Gained experience in innovation, teamwork, and business-focused ML applications
 
 ## 👥 Team Members
 
-Sachin Deepak S
+Sabarinath S
 
-Sabarinath
+Sachin Deepak S
 
 Rohith P
 
