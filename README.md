@@ -70,7 +70,6 @@ ENTREPIX-ML-Web-Application/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Sachin-deepak-S/ENTREPIX-ML-Web-Application.git
 cd ENTREPIX-ML-Web-Application
 ```
 ### 2️⃣ Backend Setup
